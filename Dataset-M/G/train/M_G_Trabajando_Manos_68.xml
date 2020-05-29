@@ -1,0 +1,26 @@
+<annotation>
+	<folder>300px-manos-trabajando-frames</folder>
+	<filename>M_G_Trabajando_Manos_68.jpg</filename>
+	<path>/home/julian/Documentos/dugai/Dataset-Bib/Dataset-ma&#241;ana-difdistancia/300px-manos-trabajando-frames/300px-manos-trabajando-frame-000005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>224</ymin>
+			<xmax>440</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40px-manosguantes-trabajando-tarde-frames</folder>
+	<filename>T_P_Trabajando_Verdes_33.jpg</filename>
+	<path>/home/federico/Escritorio/Repo/dugai/Dataset-Bib/Dataset-tarde-difdistancia/40px-manosguantes-trabajando-tarde-frames/40px-manosguantes-trabajando-tarde-frame-000725.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymin>213</ymin>
+			<xmax>1262</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

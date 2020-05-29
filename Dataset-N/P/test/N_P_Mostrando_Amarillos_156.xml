@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40px-mostrando-manosguantes-noche-frames</folder>
+	<filename>N_P_Mostrando_Amarillos_156.jpg</filename>
+	<path>/home/federico/Escritorio/Repo/dugai/Dataset-Bib/Dataset-noche-difdistancia/40px-mostrando-manosguantes-noche-frames/40px-mostrando-manosguantes-noche-frame-000355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>115</ymin>
+			<xmax>1329</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

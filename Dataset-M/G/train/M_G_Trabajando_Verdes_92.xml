@@ -1,0 +1,26 @@
+<annotation>
+	<folder>300px-guantes-trabajando-frames</folder>
+	<filename>M_G_Trabajando_Verdes_92.jpg</filename>
+	<path>/home/julian/Documentos/dugai/Dataset-Bib/Dataset-ma&#241;ana-difdistancia/300px-guantes-trabajando-frames/300px-guantes-trabajando-frame-000096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>250</ymin>
+			<xmax>616</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
