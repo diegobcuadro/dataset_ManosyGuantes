@@ -20,9 +20,11 @@ conectó a una notebook
 | P        | 1498 | 1285 | 1523 | 4306     |
 | Subtotal | 3002 | 2644 | 2863 | 8509     |
 
+### Paper
+ M. Olmedo, J. A. Redolfi, D. González Dondo, and R. G. Araguás,
+“EVALUACIÓN EMPÍRICA DE LA ROBUSTEZ DE DIFERENTES REDES NEURONALES USADAS PARA LA DETECCIÓN DE OBJETOS. xxiv congreso sobre métodos numéricos y sus aplicaciones-enief 2019. Asociación Argentina. de Mecánica Computacional (amca). santa
+fe, argentina, noviembre 5-7,” Mecánica computacional, 2019. [Link](https://cimec.org.ar/ojs/index.php/mc/article/view/6039)
 ### Citación
-https://cimec.org.ar/ojs/index.php/mc/article/view/6039
-
 ```
 @article{olmedo2019evaluacion,
   title={{EVALUACIÓN EMPÍRICA DE LA ROBUSTEZ DE DIFERENTES REDES NEURONALES
@@ -36,4 +38,3 @@ https://cimec.org.ar/ojs/index.php/mc/article/view/6039
   year={2019}
 }         
 ```
-
