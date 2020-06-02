@@ -1,4 +1,4 @@
-# dataset_ManosyGuantes
+# Conjunto de datos de Manos y Guantes
 Dataset de personas utilizando guantes.
 
 ### Descripción
@@ -22,8 +22,8 @@ conectó a una notebook
 
 ### Paper
  M. Olmedo, J. A. Redolfi, D. González Dondo, and R. G. Araguás,
-“EVALUACIÓN EMPÍRICA DE LA ROBUSTEZ DE DIFERENTES REDES NEURONALES USADAS PARA LA DETECCIÓN DE OBJETOS. xxiv congreso sobre métodos numéricos y sus aplicaciones-enief 2019. Asociación Argentina. de Mecánica Computacional (amca). santa
-fe, argentina, noviembre 5-7,” Mecánica computacional, 2019. [Link](https://cimec.org.ar/ojs/index.php/mc/article/view/6039)
+“EVALUACIÓN EMPÍRICA DE LA ROBUSTEZ DE DIFERENTES REDES NEURONALES USADAS PARA LA DETECCIÓN DE OBJETOS". XXIV Congreso sobre métodos numéricos y sus aplicaciones - ENIEF 2019. Asociación Argentina de Mecánica Computacional (AMCA). Santa
+Fe, Argentina, noviembre 5-7,2019”. [Link](https://cimec.org.ar/ojs/index.php/mc/article/view/6039)
 ### Citación
 ```
 @article{olmedo2019evaluacion,
