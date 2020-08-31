@@ -38,3 +38,6 @@ Fe, Argentina, noviembre 5-7,2019”. [Link](https://cimec.org.ar/ojs/index.php/
   year={2019}
 }         
 ```
+### Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Conjunto de datos de Manos y Guantes</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/diegobcuadro/dataset_ManosyGuantes" property="cc:attributionName" rel="cc:attributionURL">J. A. Redolfi, D. González Dondo, and R. G. Araguás </a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
